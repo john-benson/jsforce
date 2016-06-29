@@ -1,3 +1,6 @@
+## 1.7.0
+* browser logout now returns the connection logout promise
+
 ## 1.5.0 (Aug 12, 2015)
 * Change API version to 34.0
 * Add version info in jsforce object root (#254)
@@ -16,7 +19,7 @@
 
 
 ## 1.4.1 (Feb 25, 2015)
-* Fix error in bulk API hard delete (#167) 
+* Fix error in bulk API hard delete (#167)
 * Fix version num in bower.json
 
 
@@ -225,4 +228,3 @@
 ## v0.3.0 (May 10, 2012):
 
 * Support Salesforce Streaming API.
-
